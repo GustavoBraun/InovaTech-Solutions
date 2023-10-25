@@ -51,9 +51,6 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 
 
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
