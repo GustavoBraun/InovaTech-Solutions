@@ -23,7 +23,29 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 
 # Requisitos Funcionais 
+- [ ] **RF1**: Fazer login.
 
+- [ ] **RF2**: Visualizar tela de nóticias.
+
+- [ ] **RF2.1**: Dividir tela de nóticias por categoria e divulgações em geral.
+
+- [ ] **RF3**: Gerar segunda via do boleto.
+
+- [ ] **RF4**: Importar planilhas.
+
+- [ ] **RF5**: Cadastrar eventos.
+
+- [ ] **RF6**: Confirmar participação nos eventos.
+
+- [ ] **RF7**: Gerar pesquisa de satisfação dos eventos.
+
+- [ ] **RF8**: Distribuir pontos para os usuários que compareceram aos eventos.
+
+- [ ] **RF9**: Remover pontos dos usuários que não comparecerem aos eventos.
+
+- [ ] **RF10**: Criar sistema de ranking dos usuários por quantidade de pontos.
+
+- [ ] **RF11**: Cadastrar soluções do catálogo.
 
 # Tecnologias Usadas
 
