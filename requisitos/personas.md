@@ -3,7 +3,7 @@
 ![image](https://github.com/GustavoBraun/InovaTech-Solutions/assets/78860084/7f2a4678-0027-4963-8a23-d4e2d50c9672)
 
 Nina Sanchez é uma jovem estudante de apenas 24 anos, uma amante da tecnologia por assim dizer. Suas grandes paixões além da programação são os filmes e séries, sendo uma grande fã do universo da cinematografia e tendo como filme favorito "A ilha do medo".
-Recentemente começou a ficar preocupada com seu peso e por isso começou uma dieta, apesar de estar achando difícil seguir a risca. Com ajuda financeira de sua família, iniciou recentemente sua própria start-up e acredita que se der tudo de si, irá conseguir sucesso.
+Recentemente começou a ficar preocupada com seu peso e por isso começou uma dieta, apesar de estar achando difícil seguir a risca. Com ajuda financeira de sua família, iniciou recentemente sua própria start-up e apesar de muitas vezes ter dúvidas se tomou a decisão correta ou não, além de duvidar de si mesma, ainda acredita que se der tudo de si irá conseguir o sucesso.
 
 **_________________________________________________________________________________________________________________________________________**
 
