@@ -8,9 +8,9 @@ Como **usuário**, quero um módulo para acessar a CDL jovem para não precisar 
 
 Como **usuário**, quero ser capaz de gerar uma segunda linha do boleto para que caso perca a primeira via ainda consiga realizar o pagamento.
 
-Como **gestor** quero ter acesso a um painel administrativo para controlar acessos/perfis, gerar relatórios e realizar gestão das publicações.
+Como **gestor e administrador** quero ter acesso a um painel administrativo para controlar acessos/perfis, gerar relatórios e realizar gestão das publicações.
 
-Como **gestor** quero capturar leads e exportar para o Pipedrive para centralizar e organizar as informações sobre os leads.
+Como **gestor e administrador** quero capturar leads e exportar para o Pipedrive para centralizar e organizar as informações sobre os leads.
 
 Como **futuro usuário** quero poder me cadastrar no aplicativo para poder utilizar os recursos da CDL no meu celular.
 
@@ -22,7 +22,7 @@ Como **organizador de um evento** quero que os convidados façam uma pesquisa de
 
 Como **organizador** quero poder ver a quantidade de pontos dos usuários para saber a média de vezes que o usuário comparece nos eventos ou não.
 
-Como **usuário** quero importar a planilha do excel.
+Como **gestor e administrador** quero exportar a planilha do excel para manter o banco de dados atualizado.
 
 
 
