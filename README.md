@@ -22,34 +22,50 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 
 # Requisitos Funcionais 
-- [ ] **RF1**: Fazer login.
+1. [ ] **RF1** - Fazer login:
+      - O usuário deverá ser capaz de fazer login com sua conta CDL no aplicativo.
 
-- [ ] **RF2**: Visualizar tela de nóticias.
+2. [ ] **RF2** - Visualizar tela de notícias:
+	- O usuário deverá ser capaz de visualizar uma tela de notícias sobre economonia, comércio e política.
 
-- [ ] **RF2.1**: Dividir tela de nóticias por categoria e divulgações em geral.
+3. [ ] **RF2.1** - Dividir tela de notícias por categoria e divulgações em geral:
+	- As telas de notícias deverão ser devididas por categorias e divulgações.
 
-- [ ] **RF3**: Gerar segunda via do boleto.
+4. [ ] **RF3** - Gerar segunda via do boleto:
+	- O usuário deverá ser capaz de gerar sua segunda via de boleto que será uma linha digitavel.
 
-- [ ] **RF4**: Importar planilhas.
+5. [ ] **RF4** - Importar planilhas:
+	- O administrador do sistema da CDL deverá ser capaz de exportar as planilhas contendo informações dos usuários para o banco de dados. 
+	
+6. [ ] **RF5** - Cadastrar eventos:
+	- Deverá ser possível cadastrar eventos para a CDL jovem.
 
-- [ ] **RF5**: Cadastrar eventos.
+ 7. [ ] **RF6** - Inscrição nos eventos:
+   	- O usuário deve ser capaz de se inscrever nos eventos que eles pretendem ir.
 
-- [ ] **RF6**: Confirmar participação nos eventos.
+8. [ ] **RF7** - Confirmar participação nos eventos:
+	- Os usuários devem ser capazes de confirmar sua presença nos eventos que forem através de um check-in.
 
-- [ ] **RF7**: Gerar pesquisa de satisfação dos eventos.
+9. [ ] **RF8** - Gerar pesquisa de satisfação dos eventos:
+	- No fim do evento, os usuários que compareceram devem responder uma pesquisa de satisfação.
 
-- [ ] **RF8**: Distribuir pontos para os usuários que compareceram aos eventos.
+10. [ ] **RF9** - Distribuir pontos para os usuários que compareceram aos eventos:
+	- O sistema deve distribuir um ponto para os usuários que comparecerem aos eventos.
 
-- [ ] **RF9**: Remover pontos dos usuários que não comparecerem aos eventos.
+11. [ ] **RF10** - Remover pontos dos usuários que não comparecerem aos eventos:
+	- O sistema deve remover um ponto para os usuários que se inscreveram nos eventos, porém não compareceram.
+	
+12. [ ] **RF11** - Criar sistema de ranking dos usuários por quantidade de pontos:
+	- O sistema deverá ter um sistema de ranking dos usuários em que os usuários com mais pontos na conta estarão acima no rank.
 
-- [ ] **RF10**: Criar sistema de ranking dos usuários por quantidade de pontos.
-
-- [ ] **RF11**: Cadastrar soluções do catálogo.
+13. [ ] **RF12** - Cadastrar soluções do catálogo:
+    - Deverá ter um catálogo de soluções no APP que os usuários poderão socilitar.
 
 # Tecnologias Usadas
 
-
-
+- [Node.js](https://nodejs.org/en/)
+- [Angular](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 # Autores
 
@@ -65,10 +81,11 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
     </tr>
   </tbody>
 </table>
+
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
-A fazer.
+Agradecimentos a toda a equipe que colaborou e se esforçou para a realização do projeto.
