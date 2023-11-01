@@ -1,14 +1,12 @@
+---
+
 # InovaTech-Solutions
 
-# Capa do projeto (a decidir a partir do tema do projeto)
+![BANNER-LANÇAMENTO-AQUI-TEM-CDL](https://github.com/GustavoBraun/InovaTech-Solutions/assets/78860084/f374e9f6-aebf-4bec-b776-d3f3371e4d1c)
 
 # Sobre o Projeto
+O projeto **CDL BH Rede de Negócios** tem como objetivo criar uma plataforma digital para membros da Câmara de Dirigentes Lojistas de Belo Horizonte (CDL BH), onde os associados da CDL BH poderão usufruir dos recursos, serviços importantes e informações essenciais em um ambiente mais confortável e prático para se usar em seu telefone de maneira rápida e eficaz. O **CDL BH Rede de Negócios** também visa fortalecer a comunicação entre a CDL BH e seus associados, encorajando interações transparentes, oportunidades de networking entre os membros, e capacitando empreendedores para o mundo dos negócios.
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
 
 # Índice/Sumário
 
@@ -41,22 +39,22 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 	- Deverá ser possível cadastrar eventos para a CDL jovem.
 
  7. [ ] **RF6** - Inscrição nos eventos:
-   	- O usuário deve ser capaz de se inscrever nos eventos que pretendem ir.
+   	- O usuário CDL jovem deve ser capaz de se inscrever nos eventos que pretendem ir.
 
 8. [ ] **RF7** - Confirmar participação nos eventos:
-	- Os usuários devem ser capazes de confirmar sua presença nos eventos que forem através de um check-in.
+	- O usuário CDL jovem  deve ser capaz de confirmar sua presença nos eventos que for através de um check-in.
 
 9. [ ] **RF8** - Gerar pesquisa de satisfação dos eventos:
-	- No fim do evento, os usuários que comparecerem devem responder uma pesquisa de satisfação.
+	- No fim do evento, os usuários CDL jovem  que comparecerem devem responder uma pesquisa de satisfação.
 
 10. [ ] **RF9** - Distribuir pontos para os usuários que comparecerem aos eventos:
-	- O sistema deve distribuir um ponto para os usuários que comparecerem aos eventos.
+	- O sistema deve distribuir um ponto para os usuários CDL jovem que comparecerem aos eventos.
 
 11. [ ] **RF10** - Remover pontos dos usuários que não comparecerem aos eventos:
-	- O sistema deve remover um ponto para os usuários que se inscreveram nos eventos, porém não compareceram.
+	- O sistema deve remover um ponto para os usuários CDL jovem que se inscreveram nos eventos, porém não compareceram.
 	
 12. [ ] **RF11** - Criar sistema de ranking dos usuários por quantidade de pontos:
-	- O sistema deverá ter um sistema de ranking dos usuários em que os usuários com mais pontos na conta estarão acima no rank.
+	- O sistema deverá ter um sistema de ranking dos usuários CDL jovem em que os usuários com mais pontos na conta estarão acima no rank.
 
 13. [ ] **RF12** - Cadastrar soluções do catálogo:
     - Deverá ter um catálogo de soluções no APP onde os usuários poderão socilitar soluções.
