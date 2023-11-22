@@ -61,9 +61,8 @@ O projeto **CDL BH Rede de Negócios** tem como objetivo criar uma plataforma di
 
 # Tecnologias Usadas
 
-- [Node.js](https://nodejs.org/en/)
-- [Angular](https://angular.io/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Figma](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1289248557877341860)
+- [Miro](https://miro.com/app/dashboard/)
 
 # Autores
 
